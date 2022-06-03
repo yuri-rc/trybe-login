@@ -1,4 +1,6 @@
 
+Projeto desenvolvido por mim para ajudar meus colegas no curso da Trybe sobre o entendimento de React com uma página básica de login.
+
 Instruções para testar na sua máquina:
 
 - Faça um Fork;
